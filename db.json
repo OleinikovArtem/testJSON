@@ -180,26 +180,6 @@
         "image": "https://img.discogs.com/lelcZFFmgR9zIsAp98EMlp4FG9E=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-2518771-1288429940.jpeg.jpg",
         "url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Hogan_Grip/Hogan_Grip_-_Stance_Gives_You_Balance/Hogan_Grip_-_03_-_Stance_Gives_You_Balance.mp3"
     },
-    {
-        "id": "19",
-        "artist": "The Freak",
-        "Track": "Requiem for a Fish",
-        "Album": "Tales Of A Dead Fish",
-        "Genre": ["International", "Indie-Rock"],
-        "interest": "581300",
-        "image": "https://i.ytimg.com/vi/DvmSJyZLpKY/maxresdefault.jpg",
-        "url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/Music_for_Video/The_Freak_Fandango_Orchestra/Tales_Of_A_Dead_Fish/The_Freak_Fandango_Orchestra_-_01_-_Requiem_for_a_Fish.mp3"
-    },
-
-    {
-        "id": "20",
-        "artist": "Broke For Free",
-        "Track": "As Colorful As Ever",
-        "Album": "Layers",
-        "Genre": ["Electronic", "Hip-Hop", "Chill"],
-        "interest": "580847",
-        "image": "https://files.freemusicarchive.org/storage-freemusicarchive-org/images/albums/Broke_For_Free_-_Layers_-_20120418184903300.jpg?method=crop&width=290&height=290",
-        "url": "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/Music_for_Video/Broke_For_Free/Layers/Broke_For_Free_-_01_-_As_Colorful_As_Ever.mp3"
-    }
+    
     ]
 }
